@@ -6,6 +6,7 @@ else
   "Well done, Rachel!"
   end 
 end 
+
 puts no_puppies(4)
 
 # puts no_puppies(3)
