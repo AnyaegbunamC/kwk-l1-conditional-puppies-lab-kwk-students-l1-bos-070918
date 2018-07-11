@@ -35,6 +35,7 @@ def some_puppies(number_of_puppies,maximum_puppy_allowance)
     "Get back on your puppy restriction!"
   end 
 end 
+
 puts some_puppies(18,20)
   
 
